@@ -1,7 +1,7 @@
 # cas_unk_sample_mod
 Sample mod for Casualties Unknown using BepInEx
 
-refer to oficial [bepinex plugin guide](https://docs.bepinex.dev/master/articles/dev_guide/plugin_tutorial/index.html)  
+refer to the official [bepinex plugin guide](https://docs.bepinex.dev/master/articles/dev_guide/plugin_tutorial/index.html)  
 
 
 adding bepinex nuget feed to sources  
